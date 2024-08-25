@@ -15,5 +15,6 @@ https://github.com/SANKET-3096/MFDAPT-3.git
 # csv file download:
 
 [householdtask3.csv](https://github.com/user-attachments/files/16647573/householdtask3.csv)
+[DATA ANALYSIS WITH PYTHON-2.pdf](https://github.com/user-attachments/files/16739036/DATA.ANALYSIS.WITH.PYTHON-2.pdf)
 
 # Project video:
